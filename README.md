@@ -1,1 +1,1 @@
-# daya-design.github.io
+# redesigning daya-design.github.io and turning it into daya.codes
